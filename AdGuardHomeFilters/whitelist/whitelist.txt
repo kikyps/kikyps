@@ -8,3 +8,6 @@
 @@||youtube.com^
 @@||geforce.com^
 @@||nvidia.com^
+@@||lazada.co.id^
+@@||lazada.com^
+@@||github.com^
