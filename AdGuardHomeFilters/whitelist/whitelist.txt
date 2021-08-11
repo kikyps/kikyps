@@ -11,3 +11,4 @@
 @@||lazada.co.id^
 @@||lazada.com^
 @@||github.com^
+@@||outlook.live.com^
