@@ -7,3 +7,4 @@
 @@||g.msn.com^
 @@||youtube.com^
 @@||geforce.com^
+@@||nvidia.com^
