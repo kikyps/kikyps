@@ -12,3 +12,6 @@
 @@||lazada.com^
 @@||github.com^
 @@||outlook.live.com^
+@@||onedrive.live.com^
+@@||pinterest.com^
+@@||whatsapp.com^
