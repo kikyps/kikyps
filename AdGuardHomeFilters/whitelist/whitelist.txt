@@ -16,3 +16,4 @@
 @@||pinterest.com^
 @@||whatsapp.com^
 @@||reddit.com^
+@@||stackexchange.com^
