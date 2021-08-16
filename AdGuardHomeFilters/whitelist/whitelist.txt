@@ -18,3 +18,4 @@
 @@||reddit.com^
 @@||stackexchange.com^
 @@||laksa19.github.io^
+@@||google.com/cloudprint/
