@@ -1,5 +1,5 @@
 {
   "app_version": 170425,
   "force_update": true,
-  "update_message": "Versi baru dengan fitur penting tersedia!"
+  "update_message": "<p>Changelog:</p><ol><li>1. Fix apk stuck on launch on some android</li><li>2. Better memory management</li><li>3. Improve apk launch speed (now only 1 second to start)</li></ol>"
 }
