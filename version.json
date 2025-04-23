@@ -2,8 +2,5 @@
   "app_version": 170425,
   "force_update": true,
   "update_message":
-    "<p><b><font color=\"#FFFF00\">Changelog:</font></b></p>" +
-    "<p>1. Fix apk stuck on launch on some android</p>" +
-    "<p>2. Better memory management</p>" +
-    "<p>3. Improve apk launch speed (now only 1 second to start)</p>"
+    "<p><b><font color=\"#FFFF00\">Changelog:</font></b></p><p>1. Fix apk stuck on launch on some android</p><p>2. Better memory management</p><p>3. Improve apk launch speed (now only 1 second to start)</p>"
 }
